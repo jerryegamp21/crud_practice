@@ -21,7 +21,7 @@ body {
 
 /* Navigation Bar */
 .nav-bar {
-    background: linear-gradient(to right, #ff6a00, #ee0979);
+    background: linear-gradient(to right,rgb(47, 0, 255),rgb(93, 238, 9));
     padding: 15px 30px;
     color: white;
     font-size: 22px;
@@ -157,7 +157,6 @@ body {
     }
 }
 
-/* Animations */
 @keyframes slide-in {
     0% { transform: translateX(-50px); opacity: 0; }
     100% { transform: translateX(0); opacity: 1; }
